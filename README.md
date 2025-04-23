@@ -34,7 +34,7 @@
 
 ### 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=binjac&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Binjac's GitHub stats](https://github-readme-stats.vercel.app/api?username=binjac&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 ### 🤝 Connect With Me
 
