@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Valentin Binjacar aka binjac
+### 👋 Hi there, I'm Valentin Binjacar
 #### Analytics Engineer passionate about data, AI and technology
 
 ![Profile Views](https://komarev.com/ghpvc/?username=binjac&color=fb4362)
