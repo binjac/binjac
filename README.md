@@ -44,6 +44,8 @@
   <img alt="Asana" src="https://img.shields.io/badge/Asana-F06A6A.svg?style=for-the-badge&logo=Asana&logoColor=white" />
 </p>
 
+---
+
 ### 🎯 What I Do
 
 - 📊 Analytics Engineering and data pipeline development
