@@ -40,10 +40,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-binjacar/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:valbinjacar@gmail.com)
-
----
-
-### 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- Add your blog posts here or remove if not applicable -->
-<!-- BLOG-POST-LIST:END -->
