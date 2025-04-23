@@ -25,11 +25,11 @@
 
 ### 🎯 What I Do
 
-- 📊 Analytics Engineering and Data Pipeline Development
-- 🔄 ETL/ELT Process Design and Implementation
-- 📈 Data Modeling and Visualization
-- 🤖 Process Automation and Optimization
-- 🏗️ Infrastructure as Code with Terraform
+- 📊 Analytics Engineering and data pipeline development
+- 🔄 ETL/ELT process design and implementation
+- 📈 Data modeling and visualization
+- 🤖 Process automation and optimization
+- 🏗️ Infrastructure/Dashboard as code
 
 ### 📈 GitHub Stats
 
