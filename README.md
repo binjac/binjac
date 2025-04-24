@@ -1,7 +1,10 @@
 ### 👋 Hi there, I'm Valentin Binjacar
-#### Analytics Engineer passionate about data, AI and technology
+#### Analytics Engineer passionate about data and technology
 
 ![Profile Views](https://komarev.com/ghpvc/?username=binjac&color=fb4362)
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/valentin-binjacar/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:valbinjacar@gmail.com)
 
 ---
 
@@ -57,8 +60,3 @@
 ### 📈 GitHub Stats
 
 ![Binjac's GitHub stats](https://github-readme-stats.vercel.app/api?username=binjac&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
-### 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-binjacar/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:valbinjacar@gmail.com)
