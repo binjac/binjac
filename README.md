@@ -1,62 +1,64 @@
-### 👋 Hi there, I'm Valentin Binjacar
-#### Analytics Engineer passionate about data, AI and tech
-
-![Profile Views](https://komarev.com/ghpvc/?username=binjac&color=fb4362)
+### Hi there, I'm Valentin Binjacar
+#### Analytics Engineer passionate about data, AI and music
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/valentin-binjacar/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:valbinjacar@gmail.com)
+&nbsp;
+[![Gmail](https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=fff)](mailto:valbinjacar@gmail.com)
 
 ---
 
-### 🛠 Stack
+### Stack
 
-#### 🔧 Languages & Frameworks
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
-</p>
+[![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+&nbsp;
+[![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)](#)
+&nbsp;
+[![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+&nbsp;
+[![SQLite](https://custom-icon-badges.demolab.com/badge/SQLite-003B57?logo=sqlite&logoColor=fff)](#)
+&nbsp;
+[![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+&nbsp;
+[![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-E34F26?logo=html5&logoColor=fff)](#)
 
-#### 📊 Data Tools & Platforms
-<p>
-  <img alt="Amazon Redshift" src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF.svg?style=for-the-badge&logo=Amazon-Redshift&logoColor=white" />
-  <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white" />
-  <img alt="Apache Superset" src="https://img.shields.io/badge/Apache%20Superset-00A699.svg?style=for-the-badge&logo=Apache&logoColor=white" />
-  <img alt="Metabase" src="https://img.shields.io/badge/Metabase-509EE3.svg?style=for-the-badge&logo=Metabase&logoColor=white" />
-  <img alt="Tableau" src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3.svg?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white" />
-</p>
+[![Amazon Redshift](https://custom-icon-badges.demolab.com/badge/Amazon%20Redshift-8C4FFF?logo=amazon-redshift&logoColor=fff)](#)
+&nbsp;
+[![Databricks](https://custom-icon-badges.demolab.com/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](#)
+&nbsp;
+[![Apache Superset](https://custom-icon-badges.demolab.com/badge/Apache%20Superset-00A699?logo=apache&logoColor=fff)](#)
+&nbsp;
+[![Metabase](https://custom-icon-badges.demolab.com/badge/Metabase-509EE3?logo=metabase&logoColor=fff)](#)
+&nbsp;
+[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
+&nbsp;
+[![Looker](https://custom-icon-badges.demolab.com/badge/Looker-4285F4?logo=looker&logoColor=fff)](#)
 
-#### ☁️ Cloud & DevOps
-<p>
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
+[![Google Cloud](https://custom-icon-badges.demolab.com/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=fff)](#)
+&nbsp;
+[![Docker](https://custom-icon-badges.demolab.com/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+&nbsp;
+[![GitHub Actions](https://custom-icon-badges.demolab.com/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=fff)](#)
+&nbsp;
+[![Git](https://custom-icon-badges.demolab.com/badge/Git-F05032?logo=git&logoColor=fff)](#)
+&nbsp;
+[![Terraform](https://custom-icon-badges.demolab.com/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
 
-#### 🤝 Collaboration Tools
-<p>
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" />
-  <img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=Confluence&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" />
-  <img alt="Asana" src="https://img.shields.io/badge/Asana-F06A6A.svg?style=for-the-badge&logo=Asana&logoColor=white" />
-</p>
+[![Jira](https://custom-icon-badges.demolab.com/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+&nbsp;
+[![Confluence](https://custom-icon-badges.demolab.com/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
+&nbsp;
+[![Notion](https://custom-icon-badges.demolab.com/badge/Notion-000000?logo=notion&logoColor=fff)](#)
+&nbsp;
+[![Asana](https://custom-icon-badges.demolab.com/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)
 
 ---
 
-### 🎯 What I Do
+### Currently Learning
 
-- 📊 Analytics Engineering and data pipeline development
-- 🔄 ETL/ELT process design and implementation
-- 📈 Data modeling and visualization
-- 🤖 Process automation and optimization
-- 🏗️ Infrastructure/Dashboard as code
-
-### 📈 GitHub Stats
-
-![Binjac's GitHub stats](https://github-readme-stats.vercel.app/api?username=binjac&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+[![Rust](https://custom-icon-badges.demolab.com/badge/Rust-DEA584?logo=rust&logoColor=000)](#)
+&nbsp;
+[![Scala](https://custom-icon-badges.demolab.com/badge/Scala-DC322F?logo=scala&logoColor=fff)](#)
+&nbsp;
+[![Airflow](https://custom-icon-badges.demolab.com/badge/Airflow-017CEE?logo=apache-airflow&logoColor=fff)](#)
+&nbsp;
+[![dbt](https://custom-icon-badges.demolab.com/badge/dbt-FF694B?logo=dbt&logoColor=fff)](#)
